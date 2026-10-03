@@ -1,0 +1,6 @@
+{
+  "name": "Azam's 17th Birthday Gift",
+  "description": "A personal, interactive digital birthday gift for Azam (Kavaler) celebrating his 17th birthday.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
